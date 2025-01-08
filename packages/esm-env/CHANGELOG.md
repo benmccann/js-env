@@ -1,5 +1,11 @@
 # esm-env
 
+## 1.2.2
+
+### Patch Changes
+
+- fix: remove warning when env cannot be determined ([#15](https://github.com/benmccann/esm-env/pull/15))
+
 ## 1.2.1
 
 ### Patch Changes
